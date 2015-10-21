@@ -1,0 +1,1 @@
+C:\Visual Studio 2012\Projects\RobotRampage2\RobotRampage2\RobotRampage2Content\obj\x86\Debug\RobotRampage2Content.contentprojResolveAssemblyReference.cache

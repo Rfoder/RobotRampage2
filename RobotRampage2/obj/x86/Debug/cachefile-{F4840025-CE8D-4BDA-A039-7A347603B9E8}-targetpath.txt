@@ -1,0 +1,3 @@
+Content\Texture\SpriteSheet.xnb
+Content\Texture\TitleScreen.xnb
+Content\Fonts\Pericles14.xnb
